@@ -11,13 +11,6 @@ assignees: ''
 **Describe the task**
 Use this checklist to ensure all work is documented, updated, and smoothly handed off before your planned time away.
 
-**Work & Tickets**
-- [ ] All tickets updated with latest comments
-- [ ] Ticket status is accurate (To Do / In Progress / Blocked / Review)
-- [ ] Remaining work clearly described in each ticket
-- [ ] Dependencies and blockers documented
-- [ ] Any risks raised to the Scrum Master / Product Owner
-- [ ] If unfinished work will slip, PO/SM notified
 
 **Code & Branching**
 - [ ] Branch is up to date with `main` (rebased/merged and pushed)
@@ -26,6 +19,14 @@ Use this checklist to ensure all work is documented, updated, and smoothly hande
 - [ ] Draft PRs linked to corresponding tickets
 - [ ] Tests run and results documented (pass/fail + notes)
 - [ ] Feature flags noted (if applicable)
+
+**In Progress Tickets**
+- [ ] All tickets updated with latest comments
+- [ ] Ticket status is accurate (To Do / In Progress / Blocked / Review)
+- [ ] Remaining work clearly described in each ticket
+- [ ] Dependencies and blockers documented
+- [ ] Any risks raised to the Scrum Master / Product Owner
+- [ ] If unfinished work will slip, PO/SM notified
 
 **Knowledge Transfer**
 - [ ] Summary of recent conversations shared/documented (e.g., Product Teams channels)
@@ -45,11 +46,8 @@ Use this checklist to ensure all work is documented, updated, and smoothly hande
 **Communication**
 - [ ] Out‑of‑Office message set in Outlook
 - [ ] Scrum Master and PO informed
+- [ ] Dates added to Sustainment Team calendar
 - [ ] Announced during standup
-
-**On‑Call or Support Duties (if applicable)**
-- [ ] Confirmed coverage for on-call/support responsibilities
-- [ ] Known issues documented for the covering person
 
 **Personal To-Do's / Notes**
 - [ ] Reminders added for return tasks
